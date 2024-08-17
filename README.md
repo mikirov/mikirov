@@ -1,6 +1,6 @@
 # Mihail Kirov - Software Developer & Technology Enthusiast
 
-![Profile Banner](me.png) <!-- Replace with your own banner image if you have one -->
+![Profile Banner](avatar.jpg) <!-- Replace with your own banner image if you have one -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mihail-kirov/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mihail_kirov)
